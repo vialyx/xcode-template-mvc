@@ -1,7 +1,7 @@
 xCode MVC file template
 =========================
 
-![alt text](https://cdn-images-1.medium.com/max/800/1*ThfjvxzP4UJ30AgOVU5tUQ.png)
+![alt text](https://cdn-images-1.medium.com/max/800/1*9AmcxGDxxqDRr_KV5ksjWQ.png)
 
 ### How do I get set up? ###
 
